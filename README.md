@@ -1,5 +1,5 @@
-### Django Channels Bad Request
-> A minimal reproduction of a channels bug on Python3.7+
+### Django Channels Multipart Bad Request
+> A minimal reproduction of a channels bug returning bad request for multipart requests on Python3.7+
 
 #### Bug
 
